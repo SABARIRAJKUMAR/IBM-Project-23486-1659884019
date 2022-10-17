@@ -21,3 +21,5 @@ Build a web application using the Flask framework.
 # Architecture Diagram:
 ![image](https://user-images.githubusercontent.com/115606971/196102901-3704b121-8bb2-483e-a84b-c2d348b5864d.png)
 
+# Domain:
+Applied Data Science
