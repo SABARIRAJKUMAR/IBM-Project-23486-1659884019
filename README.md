@@ -15,3 +15,7 @@ To grab insights from data through visualization.
 Applying different ML algorithms to determine the probability of acceptance in a particular university.
 Evaluation metrics
 Build a web application using the Flask framework.
+
+# Architecture Diagram:
+![image](https://user-images.githubusercontent.com/115606971/196102901-3704b121-8bb2-483e-a84b-c2d348b5864d.png)
+
