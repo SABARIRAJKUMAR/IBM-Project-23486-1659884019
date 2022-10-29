@@ -16,10 +16,10 @@ The predicted output gives them a fair idea about their admission chances to a p
 This analysis should also help students who are currently preparing or will be preparing to get a better idea.
 
 # Project Objectives:
-To understand regression and classification problems
+To understand regression and classification problems.
 To grab insights from data through visualization.
 Applying different ML algorithms to determine the probability of acceptance in a particular university.
-Evaluation metrics
+Evaluation metrics.
 Build a web application using the Flask framework.
 
 # Architecture Diagram:
