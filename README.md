@@ -4,10 +4,10 @@
 # IBM-Project-23486-1659884019
 
 # Team Members: 
-Jayapradha B, 
-Maimoon Shirin M, 
-Kiruthika P,
-Banu Swetha R
+- Jayapradha B 
+- Maimoon Shirin M 
+- Kiruthika P
+- Banu Swetha R
 
 # Abstract:
 Students are often worried about their chances of admission to University.
